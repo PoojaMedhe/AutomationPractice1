@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-19T06:34:13 PDT" name="Suite" finished-at="2023-10-19T06:34:46 PDT" duration-ms="33330">
+    <groups>
+    </groups>
+    <test started-at="2023-10-19T06:34:13 PDT" name="Test" finished-at="2023-10-19T06:34:46 PDT" duration-ms="33330">
+      <class name="testscriptSwag.TestSwagDemo">
+        <test-method is-config="true" signature="precondition()[pri:0, instance:testscriptSwag.TestSwagDemo@3d5c822d]" started-at="2023-10-19T06:34:13 PDT" name="precondition" finished-at="2023-10-19T06:34:40 PDT" duration-ms="27675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="testLogin()[pri:0, instance:testscriptSwag.TestSwagDemo@3d5c822d]" started-at="2023-10-19T06:34:40 PDT" name="testLogin" finished-at="2023-10-19T06:34:43 PDT" duration-ms="2339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testClickAddCart()[pri:1, instance:testscriptSwag.TestSwagDemo@3d5c822d]" started-at="2023-10-19T06:34:43 PDT" name="testClickAddCart" finished-at="2023-10-19T06:34:43 PDT" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickAddCart -->
+        <test-method signature="testCheckOutAndFinish()[pri:2, instance:testscriptSwag.TestSwagDemo@3d5c822d]" started-at="2023-10-19T06:34:43 PDT" name="testCheckOutAndFinish" finished-at="2023-10-19T06:34:45 PDT" duration-ms="2132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckOutAndFinish -->
+        <test-method signature="testThankYouMsg()[pri:2, instance:testscriptSwag.TestSwagDemo@3d5c822d]" started-at="2023-10-19T06:34:45 PDT" name="testThankYouMsg" finished-at="2023-10-19T06:34:46 PDT" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThankYouMsg -->
+      </class> <!-- testscriptSwag.TestSwagDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
